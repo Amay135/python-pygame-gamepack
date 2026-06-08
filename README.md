@@ -2,7 +2,7 @@
 
 Kumpulan game sederhana berbasis Python menggunakan library Pygame. Proyek ini dibuat untuk mempelajari konsep Object-Oriented Programming (OOP), pewarisan (inheritance), abstract class, collision detection, dan pengembangan game 2D sederhana.
 
-## 🎮 Daftar Game
+## Daftar Game
 
 ### 1. Space Defender
 
@@ -49,7 +49,7 @@ Game pengumpulan koin dengan rintangan yang terus bertambah seiring kenaikan lev
 
 ---
 
-## 📂 Struktur Project
+##  Struktur Project
 
 ```text
 project/
@@ -66,7 +66,7 @@ project/
 
 ---
 
-## ⚙️ Instalasi
+## Instalasi
 
 ### 1. Clone Repository
 
@@ -102,7 +102,7 @@ python treasure_collector_232102014.py
 
 ---
 
-## 🧠 Konsep OOP yang Digunakan
+## Konsep OOP yang Digunakan
 
 ### Space Defender
 - Class dan Object
@@ -119,20 +119,13 @@ python treasure_collector_232102014.py
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 - Python 3
 - Pygame
 
 ---
 
-## 👨‍💻 Author
-
-Amar Ma'ruf  
-NIM: 232102014
-
----
-
-## 📜 License
+## License
 
 Project ini dibuat untuk keperluan pembelajaran dan pengembangan keterampilan pemrograman Python.
